@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm 24FeiFei1</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A Full-Stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Nothing](#)
+- 🔭 I’m currently working on [Novagate](https://novagatex.net.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/24feifei1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="24feifei1" height="30" width="40" /></a>
 <a href="https://twitter.com/24feifei1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="24feifei1" height="30" width="40" /></a>
 <a href="https://instagram.com/24feifei1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="24feifei1" height="30" width="40" /></a>
-<a href="https://discord.gg/pGghZKSFUY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pGghZKSFUY" height="30" width="40" /></a>
+<a href="https://dsc.gg/novagate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dsc.gg/novagate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
