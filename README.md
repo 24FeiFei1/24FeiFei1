@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 24FeiFei1</h1>
 <h3 align="center">A Full-Stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Novagate](https://novagatex.net.tr)
+- 🔭 I’m currently working on [Nothing](https://exzample.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
